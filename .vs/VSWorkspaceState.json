@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Context",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\Models\\Enums",
+    "\\Views",
+    "\\Views\\Category",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\Migrations\\20250607164248_InitialCreate.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
